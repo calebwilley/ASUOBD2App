@@ -1,0 +1,13 @@
+CAD Design:
+    -Prototype
+    -Final Design
+Device Hardware:
+    -PCB Design 
+    -Soldering
+Device Firmware:
+    -Boot File
+    -Bluetooth Driver
+Mobile App:
+    -Bluetooth Driver
+    -UI
+    -Functionality
